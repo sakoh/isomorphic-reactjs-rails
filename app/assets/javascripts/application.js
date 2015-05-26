@@ -16,3 +16,5 @@
 //= require react_ujs
 //= require turbolinks
 //= require_tree .
+// Tell react-rails where our components are
+//= require_tree ./components
